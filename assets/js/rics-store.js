@@ -37,7 +37,7 @@ class RICSStore {
             this.filteredData.items = [...this.data.items];
     
             // Load traits
-            const traitsResponse = await fetch('data/StoreTraits.json');
+            const traitsResponse = await fetch('data/Traits.json');
             const traitsData = await traitsResponse.json();
             this.data.traits = this.processTraitsData(traitsData);
             this.filteredData.traits = [...this.data.traits];

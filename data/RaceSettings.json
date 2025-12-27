@@ -24,10 +24,7 @@
       "Waster": 0.55,
       "Yttakin": 0.55,
       "Highmate": 0.7,
-      "Starjack": 0.5,
-      "Ratkin_Xeno": 0.5,
-      "Nyaron": 0.5,
-      "NyaronSanguophage": 0.5
+      "Starjack": 0.5
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -41,58 +38,7 @@
       "Waster": true,
       "Yttakin": true,
       "Highmate": true,
-      "Starjack": true,
-      "Ratkin_Xeno": true,
-      "Nyaron": false,
-      "NyaronSanguophage": false
-    }
-  },
-  "Alien_Nyaron": {
-    "DisplayName": "Nyaron",
-    "Enabled": true,
-    "BasePrice": 4500,
-    "MinAge": 16,
-    "MaxAge": 65,
-    "AllowCustomXenotypes": true,
-    "DefaultXenotype": "Baseliner",
-    "AllowedGenders": {
-      "AllowMale": false,
-      "AllowFemale": true,
-      "AllowOther": false
-    },
-    "XenotypePrices": {
-      "Baseliner": 1.0,
-      "Dirtmole": 0.6,
-      "Genie": 0.75,
-      "Hussar": 0.9,
-      "Sanguophage": 3.00593352,
-      "Neanderthal": 0.45,
-      "Pigskin": 0.4,
-      "Impid": 0.65,
-      "Waster": 0.55,
-      "Yttakin": 0.55,
-      "Highmate": 0.7,
-      "Starjack": 0.5,
-      "Ratkin_Xeno": 0.5,
-      "Nyaron": 0.5,
-      "NyaronSanguophage": 0.5
-    },
-    "EnabledXenotypes": {
-      "Baseliner": false,
-      "Dirtmole": false,
-      "Genie": false,
-      "Hussar": false,
-      "Sanguophage": false,
-      "Neanderthal": false,
-      "Pigskin": false,
-      "Impid": false,
-      "Waster": false,
-      "Yttakin": false,
-      "Highmate": false,
-      "Starjack": false,
-      "Ratkin_Xeno": false,
-      "Nyaron": true,
-      "NyaronSanguophage": true
+      "Starjack": true
     }
   }
 }

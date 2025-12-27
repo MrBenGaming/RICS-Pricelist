@@ -1,0 +1,50 @@
+{
+  "total": 5,
+  "viewers": [
+    {
+      "username": "mrben_assistant",
+      "karma": 100,
+      "coins": 100,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1071228654"
+      }
+    },
+    {
+      "username": "mrben_gaming",
+      "karma": 100,
+      "coins": 100,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "38084399"
+      }
+    },
+    {
+      "username": "softblanketsnuggles",
+      "karma": 100,
+      "coins": 100,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1005380314"
+      }
+    },
+    {
+      "username": "tryphen1985",
+      "karma": 100,
+      "coins": 7951,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "169896416"
+      }
+    },
+    {
+      "username": "invisibleman275",
+      "karma": 102,
+      "coins": 5333,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "3071492"
+      }
+    }
+  ]
+}
